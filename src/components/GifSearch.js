@@ -27,7 +27,7 @@ class GifSearch extends Component {
       top: "10px",
       right: "10px",
       background: "green", 
-      color: "white", 
+      color: "black", 
       padding: "5px",
       borderRadius: "5px",
     };
